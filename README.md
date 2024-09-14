@@ -7,6 +7,6 @@
     $name = "Ingridi Emanuele";
     $life = "programming";
     
-    $languages = array("PHP", "Java");
+    $languages = array("PHP");
 
 ?>
