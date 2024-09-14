@@ -1,5 +1,10 @@
-<div align="center">
-  <img height="300" src="https://i.imgur.com/auEr3NW.png"  />
-</div>
+<?php
+    echo "Hello world!"; 
 
-###
+    $name = "Ingridi Emanuele";
+    $life = "programming";
+    
+    $languages = array("PHP", "Java");
+
+    // Você pode adicionar mais lógica aqui se precisar
+?>
