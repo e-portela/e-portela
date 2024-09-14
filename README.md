@@ -9,5 +9,4 @@
     
     $languages = array("PHP", "Java");
 
-    // Você pode adicionar mais lógica aqui se precisar
 ?>
