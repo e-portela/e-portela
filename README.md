@@ -13,7 +13,6 @@
 
 ###
 
-<h4 align="center"><?php<br>    echo "Hello, World! Meu nome é Ingridi Emanuele";<br>?></h4>
 
 ###
 
