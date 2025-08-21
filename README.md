@@ -15,7 +15,7 @@
 ###  **Stack Tecnológica**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,php,tailwind,figma,git,github,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,.mysql,html,css,php,tailwind,figma,git,github,vscode&theme=dark&perline=6" />
 </div>
 
 <br>
